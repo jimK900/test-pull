@@ -20,3 +20,5 @@
 # git rebase
 
 # git checkout
+
+# git remote -v 
