@@ -7,3 +7,6 @@
 # git config --global -l
 
 # git confog user.name jimK900
+
+
+# git push
