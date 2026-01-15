@@ -10,3 +10,6 @@
 
 
 # git push
+
+
+# git config --local -l
