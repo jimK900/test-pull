@@ -18,3 +18,5 @@
 # git branch -a 
 
 # git rebase
+
+# git checkout
