@@ -22,3 +22,5 @@
 # git checkout
 
 # git remote -v 
+
+# main 分支也提交了
