@@ -8,4 +8,5 @@
 
 # git confog user.name jimK900
 
-# git config --local -l
+
+# git push
