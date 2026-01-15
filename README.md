@@ -13,3 +13,6 @@
 
 
 # git config --local -l
+
+
+# git branch -a 
