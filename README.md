@@ -5,3 +5,5 @@
 # git push
 
 # git config --global -l
+
+# git confog user.name jimK900
